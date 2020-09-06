@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">COVID19Stats</string>
+    <string name="app_name">Covid</string>
+    <string-array name="countries">
+       <item>Select Country</item>
+        <item>America</item>
+        <item>Morocco</item>
+
+
+
+
+    </string-array>
 </resources>
